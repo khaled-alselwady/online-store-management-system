@@ -1,0 +1,12 @@
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineSotre(DataAccessLayer)\bin\Debug\OnlineSotre(DataAccessLayer).dll
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineSotre(DataAccessLayer)\bin\Debug\OnlineSotre(DataAccessLayer).pdb
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineSotre(DataAccessLayer)\obj\Debug\OnlineSotre(DataAccessLayer).csproj.AssemblyReference.cache
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineSotre(DataAccessLayer)\obj\Debug\OnlineSotre(DataAccessLayer).csproj.CoreCompileInputs.cache
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineSotre(DataAccessLayer)\obj\Debug\OnlineSotre(DataAccessLayer).dll
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineSotre(DataAccessLayer)\obj\Debug\OnlineSotre(DataAccessLayer).pdb
+D:\Learning Programming\C# & Database Connectivity\OnlineSotre(DataAccessLayer)\bin\Debug\OnlineSotre(DataAccessLayer).dll
+D:\Learning Programming\C# & Database Connectivity\OnlineSotre(DataAccessLayer)\bin\Debug\OnlineSotre(DataAccessLayer).pdb
+D:\Learning Programming\C# & Database Connectivity\OnlineSotre(DataAccessLayer)\obj\Debug\OnlineSotre(DataAccessLayer).csproj.AssemblyReference.cache
+D:\Learning Programming\C# & Database Connectivity\OnlineSotre(DataAccessLayer)\obj\Debug\OnlineSotre(DataAccessLayer).csproj.CoreCompileInputs.cache
+D:\Learning Programming\C# & Database Connectivity\OnlineSotre(DataAccessLayer)\obj\Debug\OnlineSotre(DataAccessLayer).dll
+D:\Learning Programming\C# & Database Connectivity\OnlineSotre(DataAccessLayer)\obj\Debug\OnlineSotre(DataAccessLayer).pdb

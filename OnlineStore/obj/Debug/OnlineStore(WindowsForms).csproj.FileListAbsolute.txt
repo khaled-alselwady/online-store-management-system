@@ -1,0 +1,10 @@
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\bin\Debug\OnlineStore(WindowsForms).exe.config
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\bin\Debug\OnlineStore(WindowsForms).exe
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\bin\Debug\OnlineStore(WindowsForms).pdb
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(WindowsForms).csproj.AssemblyReference.cache
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(WindowsForms).csproj.SuggestedBindingRedirects.cache
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.Properties.Resources.resources
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(WindowsForms).csproj.GenerateResource.cache
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(WindowsForms).csproj.CoreCompileInputs.cache
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(WindowsForms).exe
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(WindowsForms).pdb

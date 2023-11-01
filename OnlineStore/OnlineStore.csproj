@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C10B718E-CFBE-424E-A855-D20F67DA9774}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>OnlineStore_WindowsForms_</RootNamespace>
+    <AssemblyName>OnlineStore%28WindowsForms%29</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=6.3.0.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>packages\FontAwesome.Sharp.6.3.0\lib\net48\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.4, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.UI2.WinForms.2.0.4.4\lib\net48\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminForms\Administrators\frmAddEditAdministrator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Administrators\frmAddEditAdministrator.Designer.cs">
+      <DependentUpon>frmAddEditAdministrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Administrators\frmAdministrator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Administrators\frmAdministrator.Designer.cs">
+      <DependentUpon>frmAdministrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Categories\frmAdminCategories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Categories\frmAdminCategories.Designer.cs">
+      <DependentUpon>frmAdminCategories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Customers\frmAddEditCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Customers\frmAddEditCustomer.Designer.cs">
+      <DependentUpon>frmAddEditCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Customers\frmCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Customers\frmCustomer.Designer.cs">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Customers\frmShowPhones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Customers\frmShowPhones.Designer.cs">
+      <DependentUpon>frmShowPhones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Orders\frmAddEditOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Orders\frmAddEditOrder.Designer.cs">
+      <DependentUpon>frmAddEditOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Orders\frmOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Orders\frmOrders.Designer.cs">
+      <DependentUpon>frmOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Payments\frmPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Payments\frmPayment.Designer.cs">
+      <DependentUpon>frmPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Products\frmAddEditProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Products\frmAddEditProduct.Designer.cs">
+      <DependentUpon>frmAddEditProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Products\frmAdminProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Products\frmAdminProducts.Designer.cs">
+      <DependentUpon>frmAdminProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Products\frmShowProductImages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Products\frmShowProductImages.Designer.cs">
+      <DependentUpon>frmShowProductImages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Reviews\frmReviews.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Reviews\frmReviews.Designer.cs">
+      <DependentUpon>frmReviews.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Shipping\frmAddEditShipping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Shipping\frmAddEditShipping.Designer.cs">
+      <DependentUpon>frmAddEditShipping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Shipping\frmShipping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Shipping\frmShipping.Designer.cs">
+      <DependentUpon>frmShipping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\frmAdminMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\frmAdminMainMenu.Designer.cs">
+      <DependentUpon>frmAdminMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clsChangeHeaderColorOfDataGridView.cs" />
+    <Compile Include="clsDragForm.cs" />
+    <Compile Include="clsOpenChildForm.cs" />
+    <Compile Include="CustomerForms\clsOrderCartInfo.cs" />
+    <Compile Include="CustomerForms\CustomerCart\frmCustomerCart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\CustomerCart\frmCustomerCart.Designer.cs">
+      <DependentUpon>frmCustomerCart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\CustomerOrders\frmCustomerEditOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\CustomerOrders\frmCustomerEditOrder.Designer.cs">
+      <DependentUpon>frmCustomerEditOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\CustomerOrders\frmCustomerOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\CustomerOrders\frmCustomerOrders.Designer.cs">
+      <DependentUpon>frmCustomerOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\CustomerPayments\frmCustomerPayments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\CustomerPayments\frmCustomerPayments.Designer.cs">
+      <DependentUpon>frmCustomerPayments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\CustomerPayments\frmPay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\CustomerPayments\frmPay.Designer.cs">
+      <DependentUpon>frmPay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\CustomerPayments\frmShowPreviousPaymentRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\CustomerPayments\frmShowPreviousPaymentRecords.Designer.cs">
+      <DependentUpon>frmShowPreviousPaymentRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\CustomerProfile\frmCustomerProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\CustomerProfile\frmCustomerProfile.Designer.cs">
+      <DependentUpon>frmCustomerProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\CustomerReviews\frmAddEditReview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\CustomerReviews\frmAddEditReview.Designer.cs">
+      <DependentUpon>frmAddEditReview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\CustomerReviews\frmCustomerReviews.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\CustomerReviews\frmCustomerReviews.Designer.cs">
+      <DependentUpon>frmCustomerReviews.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\CustomerReviews\frmShowProductsToReview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\CustomerReviews\frmShowProductsToReview.Designer.cs">
+      <DependentUpon>frmShowProductsToReview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\CustomerShipping\frmCustomerShipping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\CustomerShipping\frmCustomerShipping.Designer.cs">
+      <DependentUpon>frmCustomerShipping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\frmCustomerMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\frmCustomerMainMenu.Designer.cs">
+      <DependentUpon>frmCustomerMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\Products\frmAddEditCart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\Products\frmAddEditCart.Designer.cs">
+      <DependentUpon>frmAddEditCart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForms\Products\frmCustomerProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForms\Products\frmCustomerProducts.Designer.cs">
+      <DependentUpon>frmCustomerProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginScreenFroms\frmCreateNewCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginScreenFroms\frmCreateNewCustomer.Designer.cs">
+      <DependentUpon>frmCreateNewCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginScreenFroms\frmLoginScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginScreenFroms\frmLoginScreen.Designer.cs">
+      <DependentUpon>frmLoginScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AdminForms\Administrators\frmAddEditAdministrator.resx">
+      <DependentUpon>frmAddEditAdministrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Administrators\frmAdministrator.resx">
+      <DependentUpon>frmAdministrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Categories\frmAdminCategories.resx">
+      <DependentUpon>frmAdminCategories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Customers\frmAddEditCustomer.resx">
+      <DependentUpon>frmAddEditCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Customers\frmCustomer.resx">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Customers\frmShowPhones.resx">
+      <DependentUpon>frmShowPhones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Orders\frmAddEditOrder.resx">
+      <DependentUpon>frmAddEditOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Orders\frmOrders.resx">
+      <DependentUpon>frmOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Payments\frmPayment.resx">
+      <DependentUpon>frmPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Products\frmAddEditProduct.resx">
+      <DependentUpon>frmAddEditProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Products\frmAdminProducts.resx">
+      <DependentUpon>frmAdminProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Products\frmShowProductImages.resx">
+      <DependentUpon>frmShowProductImages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Reviews\frmReviews.resx">
+      <DependentUpon>frmReviews.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Shipping\frmAddEditShipping.resx">
+      <DependentUpon>frmAddEditShipping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Shipping\frmShipping.resx">
+      <DependentUpon>frmShipping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\frmAdminMainMenu.resx">
+      <DependentUpon>frmAdminMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\CustomerCart\frmCustomerCart.resx">
+      <DependentUpon>frmCustomerCart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\CustomerOrders\frmCustomerEditOrder.resx">
+      <DependentUpon>frmCustomerEditOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\CustomerOrders\frmCustomerOrders.resx">
+      <DependentUpon>frmCustomerOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\CustomerPayments\frmCustomerPayments.resx">
+      <DependentUpon>frmCustomerPayments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\CustomerPayments\frmPay.resx">
+      <DependentUpon>frmPay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\CustomerPayments\frmShowPreviousPaymentRecords.resx">
+      <DependentUpon>frmShowPreviousPaymentRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\CustomerProfile\frmCustomerProfile.resx">
+      <DependentUpon>frmCustomerProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\CustomerReviews\frmAddEditReview.resx">
+      <DependentUpon>frmAddEditReview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\CustomerReviews\frmCustomerReviews.resx">
+      <DependentUpon>frmCustomerReviews.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\CustomerReviews\frmShowProductsToReview.resx">
+      <DependentUpon>frmShowProductsToReview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\CustomerShipping\frmCustomerShipping.resx">
+      <DependentUpon>frmCustomerShipping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\frmCustomerMainMenu.resx">
+      <DependentUpon>frmCustomerMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\Products\frmAddEditCart.resx">
+      <DependentUpon>frmAddEditCart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForms\Products\frmCustomerProducts.resx">
+      <DependentUpon>frmCustomerProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginScreenFroms\frmCreateNewCustomer.resx">
+      <DependentUpon>frmCreateNewCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginScreenFroms\frmLoginScreen.resx">
+      <DependentUpon>frmLoginScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MyLogo3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineStore_Business\OnlineStore_Business.csproj">
+      <Project>{638317cf-025b-4a4d-a91e-ee68ce1f9ca9}</Project>
+      <Name>OnlineStore_Business</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

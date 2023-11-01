@@ -1,0 +1,9 @@
+D:\Learning Programming\Projects\Online Store System\Online Store System\OnlineStore_Business\bin\Debug\OnlineStore(BusinessLayer).dll
+D:\Learning Programming\Projects\Online Store System\Online Store System\OnlineStore_Business\bin\Debug\OnlineStore(BusinessLayer).pdb
+D:\Learning Programming\Projects\Online Store System\Online Store System\OnlineStore_Business\bin\Debug\OnlineSotre(DataAccessLayer).dll
+D:\Learning Programming\Projects\Online Store System\Online Store System\OnlineStore_Business\bin\Debug\OnlineSotre(DataAccessLayer).pdb
+D:\Learning Programming\Projects\Online Store System\Online Store System\OnlineStore_Business\obj\Debug\OnlineStore_Business.csproj.AssemblyReference.cache
+D:\Learning Programming\Projects\Online Store System\Online Store System\OnlineStore_Business\obj\Debug\OnlineStore_Business.csproj.CoreCompileInputs.cache
+D:\Learning Programming\Projects\Online Store System\Online Store System\OnlineStore_Business\obj\Debug\OnlineStore_Business.csproj.CopyComplete
+D:\Learning Programming\Projects\Online Store System\Online Store System\OnlineStore_Business\obj\Debug\OnlineStore(BusinessLayer).dll
+D:\Learning Programming\Projects\Online Store System\Online Store System\OnlineStore_Business\obj\Debug\OnlineStore(BusinessLayer).pdb

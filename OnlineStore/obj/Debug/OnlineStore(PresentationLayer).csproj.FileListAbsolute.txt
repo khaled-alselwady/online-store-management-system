@@ -1,0 +1,116 @@
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\bin\Debug\OnlineStore(WindowsForms).exe.config
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\bin\Debug\OnlineStore(WindowsForms).exe
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\bin\Debug\OnlineStore(WindowsForms).pdb
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(PresentationLayer).csproj.AssemblyReference.cache
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(PresentationLayer).csproj.SuggestedBindingRedirects.cache
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.Properties.Resources.resources
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(PresentationLayer).csproj.GenerateResource.cache
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(PresentationLayer).csproj.CoreCompileInputs.cache
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(WindowsForms).exe
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(WindowsForms).pdb
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\bin\Debug\FontAwesome.Sharp.dll
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(PresentationLayer).csproj.CopyComplete
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\bin\Debug\Guna.UI2.dll
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\bin\Debug\OnlineStore(BusinessLayer).dll
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\bin\Debug\OnlineSotre(DataAccessLayer).dll
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\bin\Debug\OnlineStore(BusinessLayer).pdb
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\bin\Debug\OnlineSotre(DataAccessLayer).pdb
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminFroms.frmAdminProducts.resources
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.frmAdminMainMenu.resources
+C:\Khaled\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminFroms.Products.frmShowProductImages.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\bin\Debug\OnlineStore(WindowsForms).exe.config
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\bin\Debug\OnlineStore(WindowsForms).exe
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\bin\Debug\OnlineStore(WindowsForms).pdb
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\bin\Debug\FontAwesome.Sharp.dll
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\bin\Debug\Guna.UI2.dll
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\bin\Debug\OnlineStore(BusinessLayer).dll
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\bin\Debug\OnlineSotre(DataAccessLayer).dll
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\bin\Debug\OnlineStore(BusinessLayer).pdb
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\bin\Debug\OnlineSotre(DataAccessLayer).pdb
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(PresentationLayer).csproj.AssemblyReference.cache
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminFroms.frmAdminProducts.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminFroms.Products.frmShowProductImages.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.frmAdminMainMenu.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.Properties.Resources.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(PresentationLayer).csproj.GenerateResource.cache
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(PresentationLayer).csproj.CoreCompileInputs.cache
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(PresentationLayer).csproj.CopyComplete
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(WindowsForms).exe
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(WindowsForms).pdb
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminFroms.Products.frmAddEditProduct.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Categories.frmAdminCategories.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Customers.frmCustomer.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Customers.frmAddEditCustomer.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Customers.frmShowPhones.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.frmAdministrator.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Administrators.frmAddEditAdministrator.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Reviews.frmReviews.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Shipping.frmShipping.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Shipping.frmAddEditShipping.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Orders.frmAddEditOrder.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Orders.frmOrders.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Payments.frmPayment.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.frmCustomerMainMenu.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.Products.frmCustomerProducts.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerCart.frmCustomerCart.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.Products.frmAddEditCart.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerOrders.frmCustomerOrders.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerOrders.frmCustomerEditOrder.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerReviews.frmCustomerReviews.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerReviews.frmAddEditReview.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerReviews.frmShowProductsToReview.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerShipping.frmCustomerShipping.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerPayments.frmCustomerPayments.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerPayments.frmPay.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerPayments.frmShowPreviousPaymentRecords.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.LoginScreenFroms.frmLoginScreen.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.LoginScreenFroms.frmCreateNewCustomer.resources
+D:\Learning Programming\C# & Database Connectivity\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerProfile.frmCustomerProfile.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\bin\Debug\OnlineStore(WindowsForms).exe.config
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\bin\Debug\OnlineStore(WindowsForms).exe
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\bin\Debug\OnlineStore(WindowsForms).pdb
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\bin\Debug\FontAwesome.Sharp.dll
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\bin\Debug\Guna.UI2.dll
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\bin\Debug\OnlineStore(BusinessLayer).dll
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\bin\Debug\OnlineSotre(DataAccessLayer).dll
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\bin\Debug\OnlineStore(BusinessLayer).pdb
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\bin\Debug\OnlineSotre(DataAccessLayer).pdb
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(PresentationLayer).csproj.AssemblyReference.cache
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Administrators.frmAddEditAdministrator.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.frmAdministrator.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Categories.frmAdminCategories.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Customers.frmAddEditCustomer.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Customers.frmCustomer.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Customers.frmShowPhones.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Orders.frmAddEditOrder.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Orders.frmOrders.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Payments.frmPayment.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminFroms.Products.frmAddEditProduct.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminFroms.frmAdminProducts.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminFroms.Products.frmShowProductImages.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Reviews.frmReviews.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Shipping.frmAddEditShipping.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.AdminForms.Shipping.frmShipping.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.frmAdminMainMenu.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerCart.frmCustomerCart.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerOrders.frmCustomerEditOrder.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerOrders.frmCustomerOrders.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerPayments.frmCustomerPayments.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerPayments.frmPay.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerPayments.frmShowPreviousPaymentRecords.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerProfile.frmCustomerProfile.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerReviews.frmAddEditReview.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerReviews.frmCustomerReviews.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerReviews.frmShowProductsToReview.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.CustomerShipping.frmCustomerShipping.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.frmCustomerMainMenu.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.Products.frmAddEditCart.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.CustomerForms.Products.frmCustomerProducts.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.LoginScreenFroms.frmCreateNewCustomer.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.LoginScreenFroms.frmLoginScreen.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore_WindowsForms_.Properties.Resources.resources
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(PresentationLayer).csproj.GenerateResource.cache
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(PresentationLayer).csproj.CoreCompileInputs.cache
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(PresentationLayer).csproj.CopyComplete
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(WindowsForms).exe
+D:\Learning Programming\C# & Database Connectivity\Online Store System\OnlineStore(WindowsForms)\obj\Debug\OnlineStore(WindowsForms).pdb
